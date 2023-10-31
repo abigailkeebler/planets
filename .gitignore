@@ -1,0 +1,3 @@
+# put in here patterns for it to match
+*.csv
+results/
